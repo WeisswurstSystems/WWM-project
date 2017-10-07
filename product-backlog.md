@@ -1,20 +1,11 @@
 # Roles in this Application
 
-## USER
-
-Every person that uses this application in general.
-
-## CREATOR
-
-The creator of a meeting. This role is specific to each meeting
-
-## BUYER
-
-The buyer of a meeting is assigned by the creator of this meeting. This role is also specific to each meeting.
-
-## ADMIN
-
-Administrator of the whole application.
+| Role | Description |
+| --- | --- |
+| USER | Every person that uses this application in general. |
+| CREATOR | The creator of a meeting. This role is specific to each meeting. |
+| BUYER | The buyer of a meeting is assigned by the creator of this meeting. This role is also specific to each meeting. |
+| ADMIN | Administrator of the whole application. |
 
 # Status of each Usecase
 
