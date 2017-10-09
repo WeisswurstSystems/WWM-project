@@ -17,20 +17,23 @@
 
 | ID | Story | Status Backend | Status Frontend |
 |---:| :---  | :---: | :---: |
-| M1_01 | Als CREATOR möchte nur ich Äderungen am Meeting vornehmen können | :x: | :x: |
-| M1_02 | Als CREATOR möchte ich einen BUYER ernennen können, damit dieser zusätzliche Tätigkeiten in meinem Meeting erfüllen kann. | :x: | :x: |
-| M1_03 | Als CREATOR möchte ich festlegen können, wann ein Meeting geschlossen sein soll, sodass ab dann kein USER mehr Bestellungen tätigen kann. | :x: | :x: |
-| M1_04 | Als CREATOR möchte ich USER per Mail einladen können. | :x: | :x: |
-| M1_05 | Als CREATOR möchte ich den USERn meines Meetings schnell und unkompliziert nachrichten zukommen lassen können, um diese etwa über geänderte Zeiten oder Preise informieren zu können. | :x: | :x: |
-| M1_06 | Als CREATOR und BUYER möchte ich meinem Meeting verschiedene Typen und deren Preise hinzufügen können. | :x: | :x: |
-| M1_07 | Als CREATOR und BUYER möchte ich diese Typen nachträglich bearbeiten, erweitern und auch entfernen können. | :x: | :x: |
-| M1_08 | Als CREATOR und BUYER möchte ich die Bestellungen von USERn als "bezahlt" markieren können, sobald ich mein Geld erhalten habe. | :x: | :x: |
-| M1_09 | Als CREATOR und ADMIN möchte ich meinem Meeting Gäste hinzufügen können, für USER die einmalig an einem Meeting teilnehmen wollen. | :x: | :x: |
-| M1_10 | Als USER möchte ich mich schnell und unkompliziert registrieren können. | :x: | :x: |
-| M1_11 | Als USER möchte ich einem Meeting beitreten und Dinge bestellen können. | :x: | :x: |
-| M1_12 | Als USER möchte ich meine Bestellungen nachträglich bearbeiten können. | :x: | :x: |
-| M1_13 | Als USER möchte ich eine einfache Möglichkeit haben, dem CREATOR oder BUYER die Kosten über Paypal überweisen zu können, um kein Bargeld verwenden zu müssen. | :x: | :x: |
-| M1_14 | Als ADMIN möchte ich die Bestellungen von Benutzern anpassen können, sodass ich nachträgliche Verschiebungen schnell korrigieren kann. | :x: | :x: |
+| M1_01 | Als USER möchte ich Meetings erstellen können, um mich mit weiteren USERn zu treffen. | :x: | :x: |
+| M1_02 | Als CREATOR möchte nur ich Änderungen (Datum, Zeit, Raum) am Meeting vornehmen können | :x: | :x: |
+| M1_03 | Als CREATOR möchte ich aus den teilnehmenden USERn einen BUYER ernennen können, damit dieser zusätzliche Tätigkeiten in meinem Meeting erfüllen kann. | :x: | :x: |
+| M1_04 | Als USER möchte ich mich als BUYER melden können, damit ich zusätzliche Tätigkeiten in einem Meeting erfüllen kann. | :x: | :x: |
+| M1_05 | Als CREATOR möchte ich festlegen können, wann ein Meeting geschlossen sein soll, sodass ab dann kein USER mehr Bestellungen tätigen kann. | :x: | :x: |
+| M1_06 | Als CREATOR möchte ich USER per Mail einladen können. | :x: | :x: |
+| M1_07 | Als CREATOR möchte ich den USERn meines Meetings schnell und unkompliziert Nachrichten zukommen lassen können, um diese etwa über geänderte Zeiten oder Preise informieren zu können. | :x: | :x: |
+| M1_08 | Als CREATOR und BUYER möchte ich meinem Meeting verschiedene vordefinierte oder frei-wählbare Typen und deren Preise hinzufügen können. | :x: | :x: |
+| M1_09 | Als CREATOR und BUYER möchte ich diese Typen nachträglich bearbeiten, erweitern und auch entfernen können. | :x: | :x: |
+| M1_10 | Als CREATOR und BUYER möchte ich die Bestellungen von USERn als "bezahlt" markieren können, sobald ich mein Geld erhalten habe. | :x: | :x: |
+| M1_11 | Als USER möchte ich meinem Meeting Gäste hinzufügen können, für USER die einmalig an einem Meeting teilnehmen wollen. | :x: | :x: |
+| M1_12 | Als USER möchte ich mich schnell und unkompliziert registrieren können. | :x: | :x: |
+| M1_13 | Als USER möchte ich einem Meeting beitreten und verfügbare Dinge bestellen können. | :x: | :x: |
+| M1_14 | Als USER möchte ich meine Bestellungen nachträglich bearbeiten können. | :x: | :x: |
+| M1_15 | Als USER möchte ich eine einfache Möglichkeit haben, dem CREATOR oder BUYER die Kosten über Paypal überweisen zu können, um kein Bargeld verwenden zu müssen. | :x: | :x: |
+| M1_16 | Als USER möchte ich meine Profil-Daten anpassen können, um z.B. meinen Anzeigenamen einzustellen oder meinen PayPal-Me Link eintragen zu können. | :x: | :x: |
+| M1_17 | Als ADMIN möchte ich die Bestellungen von Benutzern anpassen können, sodass ich nachträgliche Verschiebungen schnell korrigieren kann. | :x: | :x: |
 
 # Milestone 2
 
